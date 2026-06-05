@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **LLM Fine-tuning, AI Agents, and Production Deployment of AI Systems**
 
-- 📫 How to reach me **chuthithuylinh2210@gmail.comthithuylinh2210@gmail.com**
+- 📫 How to reach me **chuthithuylinh2210@gmail.com**
 
 - ⚡ Fun fact **I can spend hours debugging a problem and call it research.**
 
